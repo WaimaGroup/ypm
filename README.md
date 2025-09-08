@@ -72,10 +72,9 @@ Used by:
 
 ### v1.3 (Oct 2025)
 - RAG for task definition (V1)
-- ReProject - Introduce new requirements and reschedule project
+- YPM Tools: New section for project definition management.
 
 ### v1.4 (Nov 2025)
-- YPM Tools: New section for project definition management.
 - AI Requirements Gathering Assistant
 - ReProject - Introduce new requirements and reschedule project
 
