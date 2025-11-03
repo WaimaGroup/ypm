@@ -2,7 +2,7 @@
 One platform to define, organize and supercharge your projects with AI. The only project manager designed to think with you. Define requirements, assign tasks, generate sprints, analyze vulnerabilities, and integrate your Git workflows — all from a single assistant-powered platform.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aiprojectmanager/)  
-
+[![Youtube](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YourProjectManager)  
 # Mission
 Speed up project delivery while improving quality and team collaboration using the power of AI.
 
