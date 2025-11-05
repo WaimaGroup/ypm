@@ -103,8 +103,6 @@ Enterprise support plans available upon request.
 
 | 🛠️ Tool | 📚 Description | 🤖 Technology |
 |--------|----------------|---------------|
-| GitHub/GitLab Integration | Sync tasks with commits, pull requests and branches | API, Webhooks |
-| AI Assistant (Waipi) | Conversational AI to define and manage tasks | GPT + Custom NLP |
 | Sprint Manager | Organize tasks into balanced sprints | Python, Django |
 | Audio-to-Requirement | Turn voice recordings into tasks and specs | Whisper, GPT |
 
