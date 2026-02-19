@@ -74,21 +74,23 @@ Used by:
 ### v1.4 (Nov 2025)
 - RAG for task definition (V1)
 
-### v1.5 (Dec 2025)
-- Import project from Jira
-
 ### v1.5 (Dec 2025 - Jan 2026)
 - AI powered offers and docx files
 
 ## Roadmap
 
+### v1.6 (Feb 2026)
+- Export all info to Jira
+- Refactor of the users dashboard
+
 ### v2.0 (Q1 2026)
 - AI Requirements Gathering Assistant
 - Agentify Waipi
-- Tender definition and import
+- Epics section
 
 ### v3.0 (Q2 2026)
 - Self model trained for task estimation
+- Tender definition and import
 
 ### v4.0 (Q3 2026)
 - MCP server
